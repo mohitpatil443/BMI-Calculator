@@ -1,16 +1,5 @@
-# bmi_calculator
+# BMI Calculator
+This app is a BMI Calculator. I worked on this application in order to enhance my User Interface Design skills and to familiarize with the UI elements elements offered by flutter.
 
-A new Flutter application.
+<pre>                           <img src="bmi_1.jpeg" width="200" height="400">     <img src="bmi_2.jpeg" width="200" height="400"> </pre>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
